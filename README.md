@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width=41% src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+<img align="right" width=50% src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 
 
 I'm a full-stack software developer with experience building apps using React/Redux, Ruby on Rails, and JavaScript. Before learning to code, my background was in data analysis and digital marketing, where my role as a technical problem solver and effective cross-team communicator allowed me to transition into software engineering.
