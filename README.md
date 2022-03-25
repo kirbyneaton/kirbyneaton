@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" height=310px src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+<img align="right" width=41% src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 
 
 I'm a full-stack software developer with experience building apps using React/Redux, Ruby on Rails, and JavaScript. Before learning to code, my background was in data analysis and digital marketing, where my role as a technical problem solver and effective cross-team communicator allowed me to transition into software engineering.
@@ -18,9 +18,9 @@ Check out my projects:
 
 ### GitHub Stats
 <p align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=kirbyneaton&hide=stars&count_private=true&show_icons=true&theme=cobalt2" />
+  <img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=kirbyneaton&hide=stars&count_private=true&show_icons=true&theme=cobalt2" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirbyneaton&theme=cobalt2" />
+  <img align="center" width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirbyneaton&theme=cobalt2" />
 </p>
 
 
